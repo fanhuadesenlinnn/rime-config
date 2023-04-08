@@ -1,0 +1,21 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	13
+#@/user_id	791d0f4f-f036-49fc-8e65-d6ad971aacf3
+ai li he 	艾利和	c=1 d=1 t=2
+an shi 	按时	c=0 d=0.1 t=4
+an shi de fan er ma che shi 	按时的反而马车是	c=1 d=1 t=5
+da xiao 	大小	c=1 d=1 t=8
+de 	的	c=0 d=0.1 t=4
+fan er 	反而	c=0 d=0.1 t=4
+lai shuo 	来说	c=2 d=1.98511 t=4
+lin sai luo han 	琳赛罗韩	c=1 d=1 t=3
+liu lan 	浏览	c=3 d=2.98506 t=11
+ma che 	马车	c=0 d=0.1 t=4
+ni hai o 	你还哦	c=1 d=1 t=12
+nin hao 	您好	c=1 d=1 t=13
+shi 	是	c=0 d=0.1 t=4
+xiu gai 	修改	c=1 d=1 t=6
+zi ti 	字体	c=1 d=1 t=7
